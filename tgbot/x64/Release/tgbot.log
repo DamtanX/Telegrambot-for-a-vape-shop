@@ -1,0 +1,37 @@
+﻿  functionality.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+  mytgbot.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(141,36): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(374,44): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(499,44): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(646,36): warning C4101: 'ex': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(672,36): warning C4244: '=': conversion from 'int64_t' to 'long', possible loss of data
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(831,36): warning C4244: '=': conversion from 'int64_t' to 'long', possible loss of data
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(868,36): warning C4244: '=': conversion from 'int64_t' to 'long', possible loss of data
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(900,36): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1049,36): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1106,42): warning C4101: 'ex': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1218,36): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1259,40): warning C4101: 'ex': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1397,40): warning C4101: 'ex': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1524,37): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1585,37): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1658,36): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1737,36): warning C4101: 'ex': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1783,40): warning C4101: 'e': unreferenced local variable
+C:\Users\damia\source\repos\tgbot\tgbot\mytgbot.cpp(1844,40): warning C4101: 'e': unreferenced local variable
+  Generating code
+  774 of 1646 functions (47.0%) were compiled, the rest were copied from previous compilation.
+    579 functions were new in current compilation
+    177 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tgbot.vcxproj -> C:\Users\damia\source\repos\tgbot\x64\Release\tgbot.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
